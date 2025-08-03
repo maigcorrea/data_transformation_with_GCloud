@@ -2,7 +2,7 @@
 
 ### 
 
-La tecnología de Cloud puede aportar un gran valor a una organización y, si la combinamos con datos, podemos generar aún más valor y crear nuevas experiencias para los clientes.En “Exploring Data Transformation with Google Cloud”, se explora el valor que los datos pueden aportar a una organización y las formas en que Google Cloud puede hacer que estos sean útiles y accesibles.
+La tecnología de Cloud puede aportar un gran valor a una organización y, si la combinamos con datos, podemos generar aún más valor y crear nuevas experiencias para los clientes.
 
 ### 
 
