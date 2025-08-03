@@ -1,0 +1,21 @@
+Cuando los datos se encuentran en una base de datos, puede que se requiera un esfuerzo considerable y experiencia para extraer información valiosa. Este objetivo puede lograrse mediante una solución de inteligencia empresarial. Sin embargo, el reto al que se enfrentan a menudo las organizaciones es identificar la solución de inteligencia empresarial adecuada. Algunas soluciones son demasiado complejas y no son accesibles para quienes no pertenecen a los equipos de ingeniería o análisis de datos. Esto implica que otros equipos deben enviar solicitudes y esperar respuestas, lo que frustra el objetivo de obtener información en tiempo real. Otras soluciones permiten que todos en la empresa realicen su propio análisis de datos, pero solo pueden hacerlo con una selección de los datos disponibles. Esto significa que solo unas pocas personas, o posiblemente ninguna, tienen una visión completa de los datos empresariales de la organización.
+
+Looker es una plataforma de inteligencia empresarial (BI) de Google Cloud diseñada para ayudar a personas y equipos a analizar, visualizar y compartir datos. Esto incluye la creación de paneles e informes interactivos fáciles de comprender y compartir. Al contar con una autoridad confiable en datos empresariales, cualquier miembro del equipo puede explorarlos, formular y responder sus propias preguntas, y crear visualizaciones. Este enfoque permite a las organizaciones no solo descubrir información valiosa, sino también actuar en consecuencia. Looker es compatible con BigQuery y más de 60 bases de datos SQL diferentes. Juntos, BigQuery y Looker ofrecen paneles e informes completos e interactivos sin comprometer el rendimiento, la escalabilidad, la seguridad ni la actualización de los datos. Looker también es 100% web, lo que facilita su integración en flujos de trabajo existentes y su uso compartido con varios equipos de una organización.
+
+¿Cómo se puede usar Looker? Veamos un ejemplo. Diamond Resorts, líder mundial en hotelería, ofrece destinos, eventos y experiencias para ayudar a las personas a recargar energías, conectar y disfrutar. Anteriormente, utilizaban una combinación de complejos libros de Excel y herramientas de inteligencia empresarial heredadas para el seguimiento de métricas importantes. Cada unidad de negocio operaba y gestionaba sus propias iniciativas de datos aisladas. Como resultado, existían:
+
+- Falta de una visión común del negocio ni una autoridad única para las métricas comunes.
+
+- Esfuerzos redundantes de ingeniería de datos, ya que el trabajo nunca se compartía ni se utilizaba en toda la organización.
+
+- Priorización inconsistente de proyectos, ya que las decisiones se basaban principalmente en la intuición y no en datos reales.
+
+- Infraestructura que no cumplía con los requisitos del negocio, con informes ejecutivos que tardaban meses en completarse.
+
+- Datos duplicados en varias unidades de negocio sin una gobernanza adecuada.
+
+- Múltiples herramientas de generación de informes y almacenes de datos en toda la empresa.
+
+- Infraestructura que no respaldaba las aspiraciones de análisis avanzado.
+
+Diamond Resorts quería crear una arquitectura única, común y basada en la nube, totalmente gestionada, que estableciera la gobernanza de datos y permitiera a la empresa centrarse más en los datos, a la vez que sentaba las bases para los análisis avanzados. Migraron a la nube y comenzaron a usar Looker para mejorar la agilidad empresarial. Esta decisión les permitió acceder a información en tiempo real en menos de tres meses. Les ayudó a adaptarse a los cambios de la COVID-19 con métricas operativas importantes, como las reservas diarias y las cancelaciones, a la vez que les proporcionó una visión integral del cliente. Además, la generación de informes manuales para el equipo de gestión de rendimiento se redujo en horas diarias. El director de información afirmó: «Los proyectos que preveíamos para los próximos años estaban de repente listos para ser abordados en cuestión de semanas». Este es solo un ejemplo de cómo una solución de inteligencia empresarial eficaz puede permitir que las empresas se transformen para brindar un mejor servicio a sus clientes.

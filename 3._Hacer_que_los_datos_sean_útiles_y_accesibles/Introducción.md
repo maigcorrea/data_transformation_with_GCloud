@@ -1,0 +1,3 @@
+No siempre es fácil para las organizaciones tomar decisiones empresariales inteligentes basadas en los datos que recopilan o generan.
+
+Y con demasiada frecuencia existen obstáculos que dificultan el análisis para una parte o la totalidad del personal. Con Google Cloud, esto no tiene por qué ser así. En el último módulo de este curso, explorarás: cómo Looker facilita a los empleados el acceso a los datos que necesitan, cuando los necesitan; cómo el análisis de streaming en tiempo real puede hacer que los datos sean más útiles; y dos productos de Google Cloud que modernizan las canalizaciones de datos: Pub/Sub y Dataflow.
